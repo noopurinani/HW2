@@ -1,0 +1,29 @@
+body {
+background-color: lightblue;
+}
+h1 {
+color: darkblue;
+}
+h2{
+color: white;
+margin-left:20px;
+}
+.content{
+  background-color:lightgray;
+  width:70%; /* set the width you want for the div */
+  margin: 0 auto; /* used to center the div */
+  text-align:left; /* left justifies the text inside of the div */
+  padding:20px;
+}
+img{
+	width=200px;
+	border:10px solid black;
+	padding:1px;
+	margin:25px;
+	align: center;
+}
+.div2{
+	font-size:12pt;
+	font-family:TimesNewRoman;
+	text-align:left;
+}
